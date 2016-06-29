@@ -1,4 +1,4 @@
-# Nuxeo Reindex Fulltext
+# Nuxeo Reindex Fulltext for LTS 2015
 
 This is a simple plugin used to launch a full reindexing of the fulltext
 of a Nuxeo repository.
